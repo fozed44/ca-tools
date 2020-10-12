@@ -1,0 +1,2 @@
+# set .sh files to have lf endings by default
+*.sh eol=lf
